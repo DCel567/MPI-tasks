@@ -1,0 +1,3 @@
+/home/george/Programming/Workspaces/VS Code Workspace/CPP/MPI/build/CMakeFiles/main.dir
+/home/george/Programming/Workspaces/VS Code Workspace/CPP/MPI/build/CMakeFiles/edit_cache.dir
+/home/george/Programming/Workspaces/VS Code Workspace/CPP/MPI/build/CMakeFiles/rebuild_cache.dir

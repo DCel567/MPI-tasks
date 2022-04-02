@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-rpath -Wl,/usr/lib/openmpi -Wl,--enable-new-dtags -pthread CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/usr/lib/openmpi /usr/lib/openmpi/libmpi_cxx.so /usr/lib/openmpi/libmpi.so 
